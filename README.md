@@ -1,9 +1,5 @@
-# Time-Series
-# ![](https://github.com/arqmain/Time-Series/forecast.gif) Time Series
+# ![](http://arqmain.net/RProject_Python_Logos/forecast.gif) Time Series projects.
 <br>
-
-
-Time Series projects.
 
 * [Python (Not ready Yet!) ](https://github.com/arqmain/Time-Series/tree/master/Python)
 
