@@ -1,5 +1,5 @@
 # ![](http://arqmain.net/RProject_Python_Logos/forecast.gif) 
-<br>Time Series projects
+<br><b>TIME SERIES PROJECTS</b>
 <br>
 
 * [Python (Not ready Yet!) ](https://github.com/arqmain/Time-Series/tree/master/Python)
