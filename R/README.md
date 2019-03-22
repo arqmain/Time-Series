@@ -2,7 +2,7 @@
 <br>
 
 
-* [ Data Science: A comparison of models to Forecast Time Series with R ](https://github.com/arqmain/Time-Series/tree/master/R/TSeries_Comparison/A_comparison_of_models_to_Forecast_Time_Series_with_R)
+* [ Data Science: A comparison of models to Forecast Time Series with R ](https://github.com/arqmain/Time-Series/tree/master/R/TSeries_Comparison)
 
 
 
